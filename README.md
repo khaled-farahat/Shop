@@ -61,9 +61,3 @@ add products
 remove or edit product that you authorized to edit
 
 <img title="" src="./images/editProduct.png" alt="">
-
-# 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
