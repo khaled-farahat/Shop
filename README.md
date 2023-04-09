@@ -18,7 +18,7 @@ Then, navigate to the project directory and run the following commands to instal
 
 You will also need to download and install MongoDB locally. You can find installation instructions here: https://docs.mongodb.com/manual/administration/install-community/
 
-Alternatively, you can use a MongoDB Atlas database by replacing the MongoDB connection string in the `.env` file.
+Alternatively, you can use a MongoDB Atlas database by replacing the MongoDB connection string in the `app.js` file.
 
 ## Usage
 
