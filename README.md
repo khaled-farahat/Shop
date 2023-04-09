@@ -52,7 +52,9 @@ and by clicking on "invoice" you can see a summary of your order.
 
 and you can sign up, login, & reset Password
 
-<img title="" src="./images/signUpPage.png" alt="" width="322" height="200"> <img title="" src="./images/loginPage.png" alt="" width="322" height="200">
+<img title="" src="./images/signUpPage.png" alt="">
+
+<img title="" src="./images/loginPage.png" alt="" >
 
 add products
 
