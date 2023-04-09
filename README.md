@@ -8,7 +8,7 @@ Please note that this project's main focus is on the backend functionality. As a
 
 To run the project, please clone the repository using the following command:
 
-`git clone <insert repository URL here>`
+`git clone https://github.com/khaled-farahat/Shop.git`
 
 Then, navigate to the project directory and run the following commands to install the dependencies:
 
